@@ -1,0 +1,5 @@
+﻿  gak 45 1.cpp
+C:\Users\nikas\source\repos\gak 45 1\gak 45 1.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\gak 45 1\gak 45 1.cpp(10,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\gak 45 1\gak 45 1.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+  gak 45 1.vcxproj -> C:\Users\nikas\source\repos\gak 45 1\Debug\gak 45 1.exe

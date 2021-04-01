@@ -1,0 +1,5 @@
+autor4 10 64 name4
+autor2 3  56 name2
+autor3 7  34 name3
+autor1 10 27 name1
+
